@@ -1,2 +1,3 @@
 # hello-world
-test repository because I have no idea what i'm doing.
+
+Hello, am I a kid, or am I a squid?
